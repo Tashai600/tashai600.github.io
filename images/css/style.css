@@ -1,0 +1,85 @@
+#navy {background-color: #00FA9A;
+border: solid;
+border-color: #00FA9A;
+text-align: center;}
+
+.head {background-color: #000000; }
+
+
+#about {background-color: #00FA9A;
+text-align: center;
+font-size: 100px;
+font-family: 'Indie Flower', cursive;}
+
+h2.bio {font-size: 50px;
+text-align: center;
+font-family: 'Indie Flower', cursive;
+background-color: #BC8F8F;}
+
+#words {font-size: 22px;
+font-family: 'Droid Serif', serif;
+background-color: #00FA9A;}
+
+h4#dance {font-size: 80px;
+	text-align: center;
+	font-family: 'Indie Flower', cursive;}
+
+	img {display: block;
+  margin-left: auto;
+  margin-right: auto;}
+
+  body#no {background-color: #000000}
+  body#drake {background-image: url(http://www.islamicwazifas.com/wp-content/uploads/2014/07/star.gif);
+  	text-align: center;
+  	color: #FFFFFF;}
+
+  #kimye {font-size: 65px;
+ border-style: dotted; }
+ #these {color: #FF1493;
+ 	bottom: auto;
+ 	font-family: 'Montserrat', sans-serif;}
+
+ 	#north {font-family: 'Montserrat', sans-serif;
+ 	font-size: 22px;
+ 	color: #FF1493 }
+
+ 	#chyna {display: block;
+  margin-left: auto;
+  margin-right: auto;
+text-align: center;
+
+background-color: #32CD32;}
+  #shade {text-align: center;
+  	font-size: 80px;
+  font-family: 'Indie Flower', cursive;
+border: groove;
+border-style: ridge;
+background-color:  #EEE8AA;}
+#messy {text-align: center;
+font-family: 'Indie Flower', cursive;
+}
+#vid {font-size: 80px;
+font-style: oblique;
+text-align: center;
+font-family: 'Open Sans Condensed', sans-serif;
+border-style: double;
+background-color: #FF6347;}
+
+h2.check {text-align: center;
+font-size: 38px;}
+
+#thirty {font-size: 22px;
+text-align: center;
+background-color: #00CED1;}
+#yellow {font font-size: 22px;
+font-family: 'Open Sans Condensed', sans-serif;
+font-style: oblique;
+background-color: #FAFAD2;
+text-align: center;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+text-align: center;
+
+}
+ul.nav {color: #000000;}
