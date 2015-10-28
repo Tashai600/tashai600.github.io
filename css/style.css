@@ -83,3 +83,8 @@ text-align: center;
 
 }
 ul.nav {color: #000000;}
+#room {background-color: #FFB6C1;
+}
+h1.boy {text-align: center;
+  font-family: 'Indie Flower', cursive; 
+font-size: 100px;}
